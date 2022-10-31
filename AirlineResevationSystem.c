@@ -31,3 +31,5 @@ int main(void) {
 	}
 	}
 }
+printf("select type of class: ");
+	scanf_s("%d", &select);
